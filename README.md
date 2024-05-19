@@ -10,7 +10,7 @@
   <br />
   <br />
 
-<h2 align="center">Sl Travel - Travel Website</h2>
+<h2 align="center">JOGO DA MEMÓRIA - Mini Game</h2>
 
 Sl Travel is a fully responsive Travel website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
