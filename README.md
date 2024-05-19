@@ -20,8 +20,6 @@ JOGO DA MEMÓRIA is a fully responsive Mini Game, <br />Responsive for all devic
 
 <br />
 
-### Demo Screeshots
-
 ![Fasteat Desktop Demo](./readme-images/mini-game.png "Desktop Demo")
 
 ### Prerequisites
