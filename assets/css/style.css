@@ -93,4 +93,31 @@
   .boxMatch::after {
     transform: rotateY(180deg);
   }
+
+  @media (max-width: 549px) {
+    .container {
+      padding: 52px 10px;
+    }
+    h2{
+      text-align: center;
+    }
+    .game {
+      width: 283px;
+      height: 283px;
+    }
+    .item {
+      width: 63px;
+      height: 63px;
+      font-size: 3em;
+    }
+  
+  }
+  
+  @media(min-width: 501px) and (max-width: 1000px) {
+    .container {
+      gap: 18px;
+      padding: 13px 60px;
+    }
+  
+  }
   
