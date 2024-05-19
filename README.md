@@ -12,7 +12,7 @@
 
 <h2 align="center">JOGO DA MEMÓRIA - Mini Game</h2>
 
-Sl Travel is a fully responsive Travel website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
+JOGO DA MEMÓRIA is a fully responsive Mini Game, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
 <a href="#" ><strong target="_blank">➥ Live Demo</strong></a>
 
