@@ -50,4 +50,38 @@
     color: #ec38bc;
     background-color: #262809;
   }
+
+  .game {
+    width: 430px;
+    height: 430px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    transform-style: preserve-3d;
+    perspective: 500px;
+  }
+  
+  .item {
+    position: relative;
+    width: 100px;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #fff;
+  
+    font-size: 4em;
+    transform: rotateY(180deg);
+    transition: 0.25s;
+  }
+  
+  .item::after {
+    content: "";
+    position: absolute;
+    inset: 0;
+    background: #404040;
+    transition: 0.25s;
+    transform: rotateY(0deg);
+    backface-visibility: hidden;
+  }
   
